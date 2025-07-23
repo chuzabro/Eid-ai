@@ -181,7 +181,7 @@ export default function OtherDesignsPage() {
                   <div
                     className="absolute"
                     style={{
-                      top: "72px",
+                      top: "85px",
                       left: "45%",
                       transform: "translateX(-50%)",
                       textAlign: "center",
@@ -221,7 +221,7 @@ export default function OtherDesignsPage() {
                   <div
                     className="absolute transform -translate-x-1/2"
                     style={{
-                      top: "72px",
+                      top: "85px",
                       left: "45%",
                       textAlign: "center",
                       
@@ -260,7 +260,7 @@ export default function OtherDesignsPage() {
                   <div
                     className="absolute"
                     style={{
-                      top: "88px",
+                      top: "105px",
                       left: "45%",
                       textAlign: "center",
                       // border:"solid 1px red",
@@ -301,7 +301,7 @@ export default function OtherDesignsPage() {
                   <div
                     className="absolute transform -translate-x-1/2"
                     style={{
-                      top: "80px",
+                      top: "95px",
                       left: "45%",
                       textAlign: "center",
                     }}
@@ -338,7 +338,7 @@ export default function OtherDesignsPage() {
                   <div
                     className="absolute transform -translate-x-1/2"
                     style={{
-                      top: "80px",
+                      top: "85px",
                       left: "52%",
                       textAlign: "center",
                       
@@ -380,7 +380,7 @@ export default function OtherDesignsPage() {
                   <div
                     className="absolute transform -translate-x-1/2"
                     style={{
-                      top: "315px",
+                      top: "325px",
                       left: "45%",
                       textAlign: "center",
                     }}

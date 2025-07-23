@@ -117,7 +117,7 @@ export default function AIClubPage() {
                     className="absolute"
                     style={{
                       left: "45%",
-                      top: "20%",
+                      top: "22%",
                       transform: "translateX(-50%)",
                     }}
                   >
@@ -156,7 +156,7 @@ export default function AIClubPage() {
                     className="w-full h-full object-cover rounded-2xl mx-auto"
                   />
                   <div
-                    className="absolute top-[21.5%] left-[45.5%] transform -translate-x-1/2 -translate-y-1/2"
+                    className="absolute top-[24.5%] left-[45.5%] transform -translate-x-1/2 -translate-y-1/2"
                     style={{
                       paddingLeft: "-3px",
                     }}
@@ -195,7 +195,7 @@ export default function AIClubPage() {
                   <div
                     className="absolute transform -translate-x-1/2"
                     style={{
-                      top: "315px",
+                      top: "325px",
                       left: "45%",
                       textAlign: "center",
                     }}
@@ -231,7 +231,7 @@ export default function AIClubPage() {
                     className="w-full h-full object-cover rounded-2xl mx-auto"
                   />
                   <div
-                    className="absolute top-[70px] left-[52%] transform -translate-x-1/2"
+                    className="absolute top-[87px] left-[52%] transform -translate-x-1/2"
                     style={{
                       textAlign: "center",
                     }}
@@ -271,7 +271,7 @@ export default function AIClubPage() {
                   <div
                     className="absolute transform -translate-x-1/2"
                     style={{
-                      top: "80px",
+                      top: "90px",
                       left: "45%",
                     }}
                   >
@@ -308,7 +308,7 @@ export default function AIClubPage() {
                     className="w-full h-full object-cover rounded-2xl mx-auto"
                   />
                   <div
-                    className="absolute top-[21%] left-[48%] transform -translate-x-1/2"
+                    className="absolute top-[25%] left-[48%] transform -translate-x-1/2"
                     style={{
                       paddingLeft: "-5px",
                     }}
